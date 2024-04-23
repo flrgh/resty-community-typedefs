@@ -7,5 +7,6 @@ LuaLS Type Definitions for OpenResty Community Libraries
 * [lua-resty-ipmatcher](https://github.com/api7/lua-resty-ipmatcher)
 * [lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid)
 * [lua-resty-jwt](https://github.com/api7/lua-resty-jwt)
+* [lua-resty-mail](https://github.com/GUI/lua-resty-mail)
 * [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)
 * [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc)
