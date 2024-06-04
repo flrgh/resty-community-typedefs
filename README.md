@@ -10,3 +10,4 @@ LuaLS Type Definitions for OpenResty Community Libraries
 * [lua-resty-mail](https://github.com/GUI/lua-resty-mail)
 * [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)
 * [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc)
+* [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket)
