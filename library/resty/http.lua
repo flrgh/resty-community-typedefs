@@ -56,6 +56,8 @@ local client = {}
 ---@return any?    ssl_session
 function client:connect(options) end
 
+http.connect = client.connect
+
 
 --- Sets the socket timeout (in ms) for subsequent operations. See [set_timeouts](#set_timeouts) below for a more declarative approach.
 ---@param time number
@@ -120,6 +122,7 @@ function client:get_reused_times() end
 ---@return string? error
 function client:close() end
 
+http.close = client.close
 
 ---@alias resty.http.body_reader fun(buffer_size:number): string, string
 
